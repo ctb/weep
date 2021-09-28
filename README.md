@@ -5,7 +5,7 @@
 
 # weep
 
-Weep is a CLI utility for retreiving AWS credentials from [ConsoleMe](https://github.com/Netflix/consoleme). Weep can run
+Weep is a CLI utility for retrieving AWS credentials from [ConsoleMe](https://github.com/Netflix/consoleme). Weep can run
 a local instance metadata service proxy, or export credentials as environment variables for your AWS needs. 
 
 ## Documentation
